@@ -16,15 +16,55 @@ transition : fade
 
 # Fuzzy Min Max Neural Network
 
+![FNN] 
+[FNN]: images/FNN.png "FNN" { width:auto; max-width:90%; vertical-align: top}
+
+
+## Fuzzy Min Max Training Part
+
+![FMM_TrainingPart]
+
+[FMM_TrainingPart]: images/FMM_TrainingPart.png "FMM_TrainingPart" { width:auto; max-width:90% }
+
+
+## 3D Hyperbox example
+
+![Hyperbox]
+
+[Hyperbox]: images/Hyperbox.png "Hyperbox" { width:auto; max-width:50% }
+  
+The dimension of hyperbox depends on the number of input feature.
+
+## Fuzzy Min Max Testing Part
+
+![FMM_TestingPart]
+
+[FMM_TestingPart]: images/FMM_TestingPart.png "FMM_TestingPart" { width:auto; max-height:50% }
+
+
+
+## An example of FMM
+
+![FMM_process]
+
+[FMM_process]: images/FMM_process.png "FMM_process" { width:auto; max-width:90% }
+
+
+## What we are doing 
+By Bin Zhang, Farhad, Huaihuaqing Zhang
+
+
 ![FMM-structure]
 
-[FMM-structure]: images/FMM-structure.png "FMM-structure" { width:800px; height:400px; page-align:middle }
+[FMM-structure]: images/FMM-structure.png "FMM-structure" { width:800px; height:400px;  }
 
-## Fuzzy Min Max Part
+## The problem we are going to deal with
 
-![FMM-detail]
 
-[FMM-detail]: images/FMM-detail.png "FMM-detail" { width:400px; max-height:600px; vertical-align:middle }
+# Gimbal
+
+
+
 
 Using [Madoko] it is easy to create beautiful presentations.
 
